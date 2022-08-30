@@ -26,6 +26,7 @@ This repository is a collection of different machine learning algorithms used wh
 
 The clustering methods used [here](https://github.com/Ganesamanian/Machine-Learning-algorithms/blob/main/Clustering%20methods/K-means%20clustering%20and%20EM.ipynb) are K-means and Mixture of Gaussian. The k-means is used to compress the image based on color clustering. Whereas, Mixture of Gaussian is used to cluster the datapoints provided based on Expected maximization. K-means is developed from scratch and compared with the existing method in sklearn library.
 
+![nao](Clustering%20methods/Kmeans_NAORelease.jpg)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Ensemble Methods -->
